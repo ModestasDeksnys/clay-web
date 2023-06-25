@@ -14,7 +14,6 @@ function Home () {
             url="/"
             btnClass="show"
             />
-            <h1>veikia</h1>
         </div>
     );
 }
