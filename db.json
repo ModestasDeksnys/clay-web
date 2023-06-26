@@ -1,24 +1,19 @@
 {
   "users": [
     {
-      "id": 6,
-      "name": "retre",
-      "email": "er@gmail"
+      "id": 1,
+      "name": "Tomas",
+      "email": "Tomas@gmail.com"
     },
     {
-      "id": 7,
-      "name": "sdg",
-      "email": "rdghd@gmail.com"
+      "id": 2,
+      "name": "Tadas",
+      "email": "Tadas@gmail.com"
     },
     {
-      "id": 8,
-      "name": "grdgrdg",
-      "email": "rgfgfrg@gmail.com"
-    },
-    {
-      "id": 9,
-      "name": "cgnhcg",
-      "email": "fdgdfgdfgh@gmail.com"
+      "id": 3,
+      "name": "Laima",
+      "email": "Laima@gmail.com"
     }
   ]
 }
