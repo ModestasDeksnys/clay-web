@@ -1,32 +1,6 @@
 {
   "users": [
     {
-      "name": "vardas",
-      "email": "vardas@gmail.com",
-      "phone": "5547434345",
-      "active": true,
-      "id": 1
-    },
-    {
-      "name": "paafggdfg",
-      "email": "fthjtyj@gmail.com",
-      "phone": "57678",
-      "active": true,
-      "id": 2
-    },
-    {
-      "id": 3,
-      "name": "fgdfhdfh",
-      "email": "fhfghf@gmail.com",
-      "phone": "756767"
-    },
-    {
-      "id": 4,
-      "name": "rtyfghgfh",
-      "email": "fhfghf@gmail.com",
-      "phone": "908908767"
-    },
-    {
       "id": 5,
       "name": "dgdfhfgh",
       "email": "ghffh@gmail.com",
@@ -41,6 +15,11 @@
       "id": 7,
       "name": "sdg",
       "email": "rdghd@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "grdgrdg",
+      "email": "rgfgfrg@gmail.com"
     }
   ]
 }

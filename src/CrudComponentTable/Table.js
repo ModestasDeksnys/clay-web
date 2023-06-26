@@ -1,6 +1,6 @@
 import axios from 'axios'
 import React, { useEffect, useState, location } from 'react'
-import './Table.css'
+import './TableStyles.css'
 
 
 function Table() {

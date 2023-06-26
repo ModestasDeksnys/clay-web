@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar';
 import AboutImg from "../assets/3.jpg";
 import Footer from '../components/Footer';
 import ContactForm from '../components/ContactForm';
-import Table from '../newcrudcomponents/Table';
+import Table from '../CrudComponentTable/Table';
 
 function Contact () {
     return (
