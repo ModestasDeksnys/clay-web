@@ -1,6 +1,6 @@
-import "./TripStyles.css";
+import "./ServiceStyles.css";
 
-function TripData(props) {
+function ServiceData(props) {
     return (
     <div className="t-card">
         <div className="t-image">
@@ -11,4 +11,4 @@ function TripData(props) {
         </div>
     );
 }
-export default TripData;
+export default ServiceData;

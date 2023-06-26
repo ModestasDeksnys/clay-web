@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import "./DestinationStyles.css"
+import "./HomePageStyles.css"
 
-class DestinationData extends Component{
+class HomePageData extends Component{
 render(){
     return(
         <div className={this.props.className}>
@@ -23,4 +23,4 @@ render(){
 
 }
 
-export default DestinationData
+export default HomePageData

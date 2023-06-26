@@ -1,4 +1,5 @@
 import "./AboutUs.css";
+import "../crudComponents/CrudHome";
 
 function AboutUs() {
     return (

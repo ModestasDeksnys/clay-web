@@ -1,27 +1,27 @@
 import React from 'react'
-import "./DestinationStyles.css"
-import DestinationData from './DestinationData'
+import "./HomePageStyles.css"
+import HomePageData from './HomePageData'
 import Room1 from "../assets/4.jpg"
 import Room2 from "../assets/5.jpg"
 import Room3 from "../assets/6.jpg"
 import Room4 from "../assets/7.jpg"
 
-const Destination =() => {
+const HomePage =() => {
   return (
     <div className="destination">
-        <h1>Popular Destination</h1>
-        <p>Tours give you the...</p>
-        <DestinationData
+        <h1>Memel Clay Decor</h1>
+        <p>Decorate your Home</p>
+        <HomePageData
         className="first-des"
-         heading="Paris"
-         text="description"
+         heading="Our Work"
+         text="details about our work"
          img1={Room1}
          img2={Room2}
 
          />
-            <DestinationData
+            <HomePageData
             className="first-des-reverse"
-         heading="New York"
+         heading="More of our Work"
 
          text="description"
 
@@ -36,4 +36,4 @@ const Destination =() => {
   )
 }
 
-export default Destination
+export default HomePage

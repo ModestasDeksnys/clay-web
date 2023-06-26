@@ -1,7 +1,7 @@
-import Destination from '../components/Destination';
+import HomePage from '../components/HomePage';
 import Hero from '../components/Hero';
 import Navbar from '../components/Navbar';
-import Trip from '../components/Trip';
+import Services from '../components/Service';
 import Footer from '../components/Footer';
 
 function Home () {
@@ -17,8 +17,8 @@ function Home () {
             url="/"
             btnClass="show"
             />
-            <Destination />
-            <Trip />
+            <HomePage />
+            <Services />
             <Footer/>
         </div>
     );
