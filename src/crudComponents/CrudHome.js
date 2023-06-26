@@ -10,7 +10,7 @@ function CrudHome() {
     const [data, setData] = useState([])
     const navigate = useNavigate()
     useEffect(()=> {
-        axios.get('http://localhost:3030/users')
+        axios.get('http://localhost:3000/users')
         .then(res => setData(res.data))
         .catch(err => console.log(err))
     }, [])

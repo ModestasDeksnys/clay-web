@@ -13,7 +13,7 @@ function Create() {
 
     const handleSubmit = (event) => {
         event.preventDefault();
-        axios.post('http://localhost:3030/users', inputData)
+        axios.post('http://localhost:3000/users', inputData)
         .then(res => {
             alert("Data Posted Successfully!")
             navigate('/')
