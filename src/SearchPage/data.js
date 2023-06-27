@@ -11,13 +11,13 @@ const data = {
         {
             id: '1',
             img: img1,
-            title: "blog 1",
+            title: "Blog 1",
             desc: "desc 1"
         },
         {
             id: '2',
             img: img2,
-            title: "blog 2",
+            title: "Picture 2",
             desc: "desc 2"
         },
         {
@@ -35,19 +35,19 @@ const data = {
         {
             id: '5',
             img: img5,
-            title: "blog 5",
+            title: "Photo 5",
             desc: "desc 5"
         },
         {
             id: '6',
             img: img6,
-            title: "blog 6",
+            title: "Picture 6",
             desc: "desc 6"
         },
         {
             id: '7',
             img: img7,
-            title: "blog 7",
+            title: "Blog 7",
             desc: "desc 7"
         }
     ]
