@@ -33,7 +33,7 @@ body {
   .hero-text h1 {
     font-size: 3rem;
     font-weight: 800;
-    background: #fff;
+    background: transparent;
   }
   
   .hero-text p {
